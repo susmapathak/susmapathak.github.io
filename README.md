@@ -1,4 +1,4 @@
-## Welcome to Susma Pathak GitHub Pages
+## Welcome to Susma Pathak GitHub Page
 
 You can use the [editor on GitHub](https://github.com/susmapathak/susmapathak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,6 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3.Orders
 
 **Bold** and _Italic_ and `Code` text
 
